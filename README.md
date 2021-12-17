@@ -6,6 +6,7 @@ We use wheat everyday in the form of bread, oats and other important breakfast a
 
 ![](https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg)
 
+It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as maturity, color, genotype, and head orientation that could make detecting and classifying weed a challenging task. 
 
 ## Directions to run the Ipython notebook 
 
