@@ -5,7 +5,7 @@
 ## Introduction
 We use wheat everyday in the form of bread, oats and other important breakfast and lunch items. It would be really good if the manual process of detecting wheat and their density is replaced by machine learning and data science. Since there are many forms of wheat, we must be identifying the right kinds of wheat plants so that they could be processed quickly. This could be done with the convoluted neural networks and it becomes a computer vision problem. 
 
-![](https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg" width = 750/>
 
 It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as maturity, color, genotype, and head orientation that could make detecting and classifying weed a challenging task. 
 
