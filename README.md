@@ -7,7 +7,7 @@ We use __wheat__ everyday in the form of __bread__, __oats__ and other important
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg" width = 750/>
 
-It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as __maturity__, __color__, __genotype__, and __head orientation__ that could make detecting and classifying weed a challenging task. 
+It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as __maturity__, __color__, __genotype__, and __head orientation__ that could make detecting and classifying wheat a challenging task. 
 
 ## Computer Vision
 
