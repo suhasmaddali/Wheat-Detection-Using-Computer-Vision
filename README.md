@@ -11,7 +11,7 @@ It is also important to accurately detect the wheat plants and sometimes the win
 
 ## Computer Vision
 
-With the aid of __computer vision__, it is possible to count the total number of wheat heads present in an image. We do this by giving annotated examples of various images and the count of the wheat heads. As we are annotating those images, soon the computer vision model learns from the data and labels and predicts the density of wheat plants from an image. As a result, one could estimate the total density of wheat plants in a particular area and take measures if there is low yield in terms of wheat productivity. 
+With the aid of __computer vision__, it is possible to count the total number of wheat heads present in an image. We do this by giving annotated examples of various images and the count of the wheat heads. As we are annotating those images, soon the computer vision model learns from the data and labels and predicts the density of wheat plants from an image. As a result, one could estimate the total density of wheat plants in a particular area. Furthermore, steps can be taken to improve the yield if their density is predicted to the low by the computer vision models and vice-versa.
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
