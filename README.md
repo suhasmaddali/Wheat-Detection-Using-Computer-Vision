@@ -9,6 +9,10 @@ We use wheat everyday in the form of bread, oats and other important breakfast a
 
 It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as maturity, color, genotype, and head orientation that could make detecting and classifying weed a challenging task. 
 
+## Computer Vision
+
+With the aid of computer vision, it is possible to count the total number of wheat heads present in an image. We do this by giving annotated examples of various images and the count of the wheat heads. 
+
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
 1. __GPU-accelerated deep learning frameworks__ offer flexibility to design and train __deep neural networks__.
