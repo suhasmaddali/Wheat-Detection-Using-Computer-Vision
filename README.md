@@ -6,6 +6,8 @@
 
 We use __wheat__ everyday in the form of __bread__, __oats__ and other important breakfast and lunch items. It would be really good if the manual process of detecting wheat and their density is replaced by machine learning and data science. Since there are many forms of wheat, we must be identifying the right kinds of wheat plants so that they could be processed quickly. This could be done with __Convolutional Neural Networks (CNNs)__ and it becomes a computer vision problem. 
 
+One of the interesting ways at which we can use CNNs is that we might identify the total number of wheat heads in fields. As a result, it is possible to estimate the density of wheat plants in different locations of the fields. This leads to a good understanding of the field quality. If the condition is poor, appropriate steps could be taken to ensure that wheat plants get adequate supply of nutrients which leads to their high quality production. 
+
 ![](https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg)
 
 It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as __maturity__, __color__, __genotype__, and head orientation that could make detecting and classifying weed a challenging task. 
