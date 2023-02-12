@@ -8,9 +8,6 @@ We use __wheat__ everyday in the form of __bread__, __oats__ and other important
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg" width = 750/>
 
-## Introduction
-We use __wheat__ everyday in the form of __bread__, __oats__ and other important breakfast and lunch items. It would be really good if the manual process of detecting wheat and their __density__ is replaced by __machine learning__ and __data science__. Since there are many forms of wheat, we must be identifying the right kinds of wheat plants so that they could be processed quickly. This could be done with the __convolutional neural networks (CNNs)__ and it becomes a computer vision problem. 
-
 ## Convolutional Neural Networks (CNNs)
 
 One of the interesting ways at which we can use __CNNs__ is that we might identify the total number of wheat heads in fields. As a result, it is possible to estimate the density of wheat plants in different locations of the fields. This leads to a good understanding of the field quality. If the condition is poor, appropriate steps could be taken to ensure that wheat plants get adequate supply of nutrients which leads to their high quality production. 
