@@ -6,11 +6,10 @@
 
 We use __wheat__ everyday in the form of __bread__, __oats__ and other important breakfast and lunch items. It would be really good if the manual process of detecting wheat and their density is replaced by machine learning and data science. Since there are many forms of wheat, we must be identifying the right kinds of wheat plants so that they could be processed quickly. This could be done with __Convolutional Neural Networks (CNNs)__ and it becomes a computer vision problem. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg" width = 750/>
+
 ## Introduction
 We use __wheat__ everyday in the form of __bread__, __oats__ and other important breakfast and lunch items. It would be really good if the manual process of detecting wheat and their __density__ is replaced by __machine learning__ and __data science__. Since there are many forms of wheat, we must be identifying the right kinds of wheat plants so that they could be processed quickly. This could be done with the __convolutional neural networks (CNNs)__ and it becomes a computer vision problem. 
-
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/melissa-askew-y4xZxzN754M-unsplash.jpg" width = 750/>
 
 ## Convolutional Neural Networks (CNNs)
 
