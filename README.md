@@ -14,11 +14,11 @@ One of the interesting ways at which we can use __CNNs__ is that we might identi
 
 It is also important to accurately detect the wheat plants and sometimes the wind could blur the images. In addition to this, there could be factors such as __maturity__, __color__, __genotype__, and head orientation that could make detecting and classifying weed a challenging task. 
 
-## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
+## 💻 Training with NVIDIA's RTX 2080 GPU
 
-* __GPU-accelerated deep learning frameworks__ offer flexibility to design and train __deep neural networks__.
-* With __cuDNN__ and __Nvidia's graphics drivers__, I was able to train the models really quickly by using __GPU__ cores rather than the __CPU__ cores.
-* This led to a significant increase in the __speed of training__ and __developing convolutional neural networks (CNNs)__. 
+* GPU-accelerated deep learning frameworks offer flexibility to design and train __deep neural networks__.
+* With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
+* This led to a significant increase in the speed of training and developing __convolutional neural networks (CNNs)__. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
